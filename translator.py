@@ -8,6 +8,7 @@ class Translator:
         # 2. Cerca una traduzione
         # 3. Cerca con wildcard
         # 4. Exit
+        # 5. Commenti
         pass
 
     def loadDictionary(self, dict):
@@ -22,6 +23,6 @@ class Translator:
         # query is a string <parola_aliena>
         pass
 
-    def handleWildCard(self,query):
+    def handleWildCard(self, query):
         # query is a string with a ? --> <par?la_aliena>
         pass
