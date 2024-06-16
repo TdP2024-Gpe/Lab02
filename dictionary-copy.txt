@@ -41,7 +41,7 @@ paprika peperone
 ravintola ristorante
 kahvila caffè
 koulu scuola
-yliopisto universit�
+yliopisto università
 kirjasto biblioteca
 sairaala ospedale
 apteekki farmacia
@@ -96,14 +96,13 @@ tähti stella
 aurinko sole
 kukka fiore
 puu albero
-lehti foglia rivista
+lehti foglia
 sade pioggia
 lumi neve
 tuuli vento
 myrsky tempesta
 kirja libro
+lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
-fff vvv nnnn
-rrrr ttt uuu ooooo ppppppppppp
